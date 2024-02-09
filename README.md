@@ -36,6 +36,12 @@
   <a href="https://www.w3schools.com/css/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
   </a>
+  <a href="https://react.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwindcss" />
+  </a>
   <a href="https://www.arduino.cc/en/Guide" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
   </a> 
