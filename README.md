@@ -36,6 +36,9 @@
   <a href="https://www.w3schools.com/css/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="55"  alt="Sql" />
+  </a>
   <a href="https://react.dev/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" />
   </a>
@@ -48,10 +51,7 @@
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="70" height="65" alt=".NET" />
   </a>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySql" />
-  </a>
+
 
 </div>  
 
