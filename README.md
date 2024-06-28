@@ -60,5 +60,4 @@
 
 ### Github Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianivanov&show_icons=true&theme=transparent&hide_border=true&count_private=true) <br/>
-[![](https://visitcount.itsvg.in/api?id=hristianivanov&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianivanov&show_icons=true&theme=transparent&hide_border=true&count_private=true)
