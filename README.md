@@ -10,14 +10,15 @@
 ### Skills
 
 <!---[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,haskell,react)](https://skillicons.dev)--->
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-dark.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="55"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="55"></a>
+
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-dark.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="55">](#)
+[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="55">](#)
 
 ### Github Stats  
 
