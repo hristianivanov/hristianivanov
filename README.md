@@ -17,46 +17,17 @@
   </a>  
 </div>  
   
-  
 ### Skills
-<div align="left">
-  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-  </a>
-  <a href="https://getbootstrap.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="52" height="52" alt="Bootstrap" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="55"  alt="Sql" />
-  </a>
-  <a href="https://react.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwindcss" />
-  </a>
-  <a href="https://www.arduino.cc/en/Guide" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="70" height="65" alt=".NET" />
-  </a>
 
-
-</div>  
-
-
-
+<!---[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,haskell,react)](https://skillicons.dev)--->
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-dark.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="55"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="55"></a>
 
 ### Github Stats  
 
