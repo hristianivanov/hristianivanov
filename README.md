@@ -59,15 +59,6 @@
 
 
 ### Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=hristianivanov&theme=transparent&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hristianivanov&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianivanov&show_icons=true&theme=transparent&hide_border=true&count_private=true) <br/>
+[![](https://visitcount.itsvg.in/api?id=hristianivanov&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
