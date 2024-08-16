@@ -11,14 +11,46 @@
 
 <!---[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,haskell,react)](https://skillicons.dev)--->
 
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-dark.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="55">](#)
-[<img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="55">](#)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/cs-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/haskell-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg">
+  <img src="" width="55">
+</picture>
 
 ### Github Stats  
 
