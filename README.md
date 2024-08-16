@@ -27,7 +27,7 @@
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg">
   <img src="" width="55">
 </picture>
