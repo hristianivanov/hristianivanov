@@ -6,7 +6,6 @@
 <!--[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087156203504)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/h_ivanow)--->
 
-
 ### Skills
 
 <!---[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,haskell,react)](https://skillicons.dev)--->
